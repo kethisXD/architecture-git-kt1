@@ -1,0 +1,42 @@
+
+  524  git init
+  525  git status
+  526  git add .
+  527  git commit -m "add screenshot my steam"
+  528  mv 123 1234
+  529  ls
+  530  git add .
+  531  git status
+  532  git commit -m "rename screenshot"
+  533  git help
+  534  git branch 
+  535  git branch --help
+  536  git branch --help | grep create
+  537  git branch --help
+  538  git branch 
+  539  git new-branch
+  540  git branch new-branch
+  541  git checkout new-branch 
+  542  touch my-file.txt | echo "hello" >> my-file.txt
+  543  cat my-file.txt 
+  544  git status
+  545  git add .
+  546  git commit -m "create new branch and new file "
+  547  git checkout master 
+  551  touch master-file.txt | echo "hello from master" >> master-file.txt
+  552  git add .
+  553  git commit -m "create new file"
+  554  git checkout new-branch 
+  555  git checkout master 
+  556  git merge new-branch 
+  560  git log
+  561  git reset --soft HEAD~1  
+  562  git log
+  563  git remote add origin https://github.com/kethisXD/architecture-git-kt1.git
+  565  git commit -m "new file"
+  566  git remote add origin https://github.com/kethisXD/architecture-git-kt1.git
+  567  git remote
+  568  git push -u origin master 
+  569  git push
+
+  587  history >> ~/ithub/architecture/Haritonov/historyCommands.txt
